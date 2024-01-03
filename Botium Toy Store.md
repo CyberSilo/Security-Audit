@@ -15,14 +15,14 @@ Project consists of auditing a mock buisness named Bodiums Toy Store in order to
   
 
 <p align="center">
-<a href="https://docs.google.com/document/d/1u8VuDQ0O70-iLRobnKhMaDEg-accgDyvCLb-Ow3iqLM/edit#heading=h.gjdgxs">Review Bodiums Toy Store scope and goals 
+<a href="https://docs.google.com/document/d/1u8VuDQ0O70-iLRobnKhMaDEg-accgDyvCLb-Ow3iqLM/edit#heading=h.gjdgxs">Review Botiums Toy Store scope and goals 
 <img src="https://imgur.com/Gt8p2a3.png">
 
-<a href="https://docs.google.com/document/d/1aYH5gWRnzuXyqBJu-NS2Mwycm67WnezhWWCRYOCkGFM/edit?resourcekey=0-y6hJlc979wfW3PQEt2KYFQ#heading=h.m1x9amj91myi">Go through "control categories" and review with "Bodiums Toy Store Scope and Goals" and decide for each control "Yes" or "No"
+<a href="https://docs.google.com/document/d/1aYH5gWRnzuXyqBJu-NS2Mwycm67WnezhWWCRYOCkGFM/edit?resourcekey=0-y6hJlc979wfW3PQEt2KYFQ#heading=h.m1x9amj91myi">Go through "control categories" and review with "Botiums Toy Store Scope and Goals" and decide for each control "Yes" or "No"
 <img src="https://imgur.com/mpnp5wM.png">
 
 <a href="https://docs.google.com/document/d/1ROJSyfTx-TI1mhD8OUH-qE7rCjB5n2qdaYAc0akjry8/edit">Review checklist example
 <img src="https://imgur.com/Ov2zi3V.png">
 
-<a href="https://docs.google.com/document/d/1iKKZJNrQ94IXWbVEMO0A09eCYLGhn-5liqkrOb1etGA/edit">Additionaly, I created a plan in order to improve the security of Bodiums Toy Store
+<a href="https://docs.google.com/document/d/1iKKZJNrQ94IXWbVEMO0A09eCYLGhn-5liqkrOb1etGA/edit">Additionaly, I created a plan in order to improve the security of Botiums Toy Store
 <img src="https://imgur.com/ndQsNL3.png">
