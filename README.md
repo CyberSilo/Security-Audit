@@ -1,4 +1,4 @@
-# Security-Audit
+# Security Audit
 
 <h2>Description</h2>
 Project consists of auditing a mock buisness named Botiums Toy Store in order to analyze security, improve security posture and verify all regulations and guidelines are being implemented within (PCI DSS) payment card industry data security standards. 
