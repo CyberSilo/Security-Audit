@@ -9,7 +9,7 @@ Project consists of auditing a mock buisness named Botiums Toy Store in order to
 - <b>Control Categories
 - <b>Controls and compliance checklist example
 
-<h2>Webite Project<h2>
+<h2>Website Project<h2>
   
 - <b>Coursera: Play It Safe: Manage Security Risks
   
