@@ -1,7 +1,7 @@
 <h1>Security Incident Report<h1>
 <h2>Description<h2>
 Project consists of reading an incident on mock website and conducting a incident report
-<h2>Tools Used</h2>
+<h2>Information Used</h2>
 
 - <b>Coursera Data
 
