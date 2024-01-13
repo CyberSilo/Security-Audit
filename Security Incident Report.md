@@ -1,4 +1,4 @@
-<h1>Security Incident Report<h1>
+<h1>Security Incident Report<h1> 
 
 <h2>Description<h2>
   Project consists of reading an incident on mock website and conducting a incident report
