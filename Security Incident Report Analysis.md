@@ -6,8 +6,7 @@ Project consists of reading report from mock company in order to form an inciden
 - <b> Coursera
 <b/>
 <h2>Walkthrough</h2>
-<p align="center">
-Read Report
 <img src="https://imgur.com/gvarrSc.png">
+<p align="center">
 <a href="https://docs.google.com/document/d/1l2DhPvBDuLLn3HJKwCrvDlx1rIGgqhTGIipypnsOnXQ/edit">Conduct Report Analysis🔗
 <img src="https://imgur.com/PYJ6iKX.png">
